@@ -1,6 +1,4 @@
-# SNN : Sungyeon Park
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCgbHNiA1-0LJLEvwp1-IouQ)](https://www.youtube.com/channel/UCgbHNiA1-0LJLEvwp1-IouQ)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hepburn7920@gmail.com)](mailto:hepburn7920@gmail.com)
+### SNN  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCgbHNiA1-0LJLEvwp1-IouQ)](https://www.youtube.com/channel/UCgbHNiA1-0LJLEvwp1-IouQ) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hepburn7920@gmail.com)](mailto:hepburn7920@gmail.com)
 
 
 <details markdown="1">

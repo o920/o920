@@ -1,14 +1,14 @@
 ### SNN  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCgbHNiA1-0LJLEvwp1-IouQ)](https://www.youtube.com/channel/UCgbHNiA1-0LJLEvwp1-IouQ) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hepburn7920@gmail.com)](mailto:hepburn7920@gmail.com)
 
-
+<br>
 <details markdown="1">
 <summary><b> 🏃‍♀️ ING </b></summary>
-<pre><br> Web system developer INTERN @DaeWoong </br></pre>
+<pre><b> Web system developer INTERN @DaeWoong </b></pre>
 </details>
 <br>
 <details markdown="1">
 <summary><b> 👩‍💻 Language </b></summary>
-<pre><br>C++ / Python) </br></pre>
+<pre><b>C++ / Python </b></pre>
 </details>
 
 

@@ -4,8 +4,17 @@
 ![Twitter URL](https://img.shields.io/twitter/url?color=FF37C3&label=instagram&logo=instagram&logoColor=FF37C3&url=https%3A%2F%2Finstagram.com%2Fo9.20)
 ![Twitter URL](https://img.shields.io/twitter/url?color=FF37C3&label=tistory&logo=t&logoColor=FF37C3&url=https%3A%2F%2Fsnnchallenge.tistory.com)
 
-#### 🏃‍♀️ : Web system developer INTERN (ing) @DaeWoong
-#### 👩‍💻 : C++ / Python
+
+<details markdown="1">
+<summary><b> 🏃‍♀️ </b></summary>
+<pre><br> Web system developer INTERN (ing) @DaeWoong </br></pre>
+</details>
+<br>
+<details markdown="1">
+<summary><b> 👩‍💻 </b></summary>
+<pre><br>C++ / Python) </br></pre>
+</details>
+
 
 <br>
 <details markdown="1">

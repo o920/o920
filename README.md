@@ -6,12 +6,12 @@
 
 
 <details markdown="1">
-<summary><b> 🏃‍♀️ </b></summary>
-<pre><br> Web system developer INTERN (ing) @DaeWoong </br></pre>
+<summary><b> 🏃‍♀️ ING </b></summary>
+<pre><br> Web system developer INTERN @DaeWoong </br></pre>
 </details>
 <br>
 <details markdown="1">
-<summary><b> 👩‍💻 </b></summary>
+<summary><b> 👩‍💻 Language </b></summary>
 <pre><br>C++ / Python) </br></pre>
 </details>
 
